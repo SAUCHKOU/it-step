@@ -1,1 +1,1 @@
-https://SAUCHKOU.github.io/itstep-cv/cv
+https://sauchkou.github.io/it-step/CV
